@@ -1,0 +1,107 @@
+{
+	"sum": 10,
+	"jsonNum": 3,
+	"data":
+	[
+		{
+			"img": "img/product/01.jpg",
+			"nobooking": true,
+			"title": "真功夫",
+			"desc": "[深圳等]冬(香)菇鸡腿肉饭+卤蛋1份",
+			"price": 16,
+			"tag": "新用户1元抢",
+			"del": 0,
+			"rightLine": 13266
+		},
+		{
+			"img": "img/product/02.jpg",
+			"nobooking": true,
+			"title": "何记花甲",
+			"desc": "[深圳等]何记秘制花甲1份",
+			"price": 12.9,
+			"tag": "",
+			"del": 15.8,
+			"rightLine": 1107079
+		},
+		{
+			"img": "img/product/03.jpg",
+			"nobooking": false,
+			"title": "麦当劳",
+			"desc": "[深圳等]麦辣鸡腿汉堡组合，建议单人使用",
+			"price": 15,
+			"tag": "",
+			"del": 21,
+			"rightLine": 37105
+		},
+		{
+			"img": "img/product/04.jpg",
+			"nobooking": true,
+			"title": "可颂坊",
+			"desc": "[深圳等]套餐2选1，提供免费WiFi",
+			"price": 9.9,
+			"tag": "",
+			"del": 21,
+			"rightLine": 8719
+		},
+		{
+			"img": "img/product/05.jpg",
+			"nobooking": true,
+			"title": "家家长沙米粉",
+			"desc": "[48店通用]20元代金券1张，可叠加",
+			"price": 16.8,
+			"tag": "新用户5元抢",
+			"del": 0,
+			"rightLine": 64424
+		},
+		{
+			"img": "img/product/06.jpg",
+			"nobooking": true,
+			"title": "奶盖贡茶",
+			"desc": "[竹子林]招牌饮品4选1，提供免费WiFi",
+			"price": 11.9,
+			"tag": "新用户1元抢",
+			"del": 0,
+			"rightLine": 79
+		},
+		{
+			"img": "img/product/07.jpg",
+			"nobooking": true,
+			"title": "壮家螺蛳粉",
+			"desc": "[景田]经典套餐A，建议单人使用",
+			"price": 12.8,
+			"tag": "",
+			"del": 18.8,
+			"rightLine": 572
+		},
+		{
+			"img": "img/product/08.jpg",
+			"nobooking": false,
+			"title": "贡茶",
+			"desc": "[景田]奶茶8选1",
+			"price": 11.9,
+			"tag": "新用户1元抢",
+			"del": 0,
+			"rightLine": 976
+		},
+		{
+			"img": "img/product/09.jpg",
+			"nobooking": false,
+			"title": "爱尚歌音乐会",
+			"desc": "[景田]下午场4小时欢唱",
+			"price": 18,
+			"tag": "新用户1元抢",
+			"del": 512,
+			"rightLine": 1596
+		},
+		{
+			"img": "img/product/10.jpg",
+			"nobooking": true,
+			"title": "新梅园圆通素食",
+			"desc": "[车公庙]午晚餐通用自助餐",
+			"price": 28,
+			"tag": "",
+			"del": 35,
+			"rightLine": 196580
+		}
+	]
+}
